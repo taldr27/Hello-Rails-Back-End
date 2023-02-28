@@ -19,7 +19,7 @@
 
 # Hello-Rails-Back-End <a name="about-project"></a>
 
-**Hello-Rails-Back-End** is an app where I created a simple API to show in a React component [Front-End-Repository](https://github.com/taldr27/Hello-React-Front-End).
+**Hello-Rails-Back-End** is an app where I created a simple API to show in a React component, click here to see the [Front-End-Repository](https://github.com/taldr27/Hello-React-Front-End).
 
 
 ## 🛠 Built With <a name="built-with"></a>
