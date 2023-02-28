@@ -17,9 +17,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# Hello-world-react-rails <a name="about-project"></a>
+# Hello-Rails-Back-End <a name="about-project"></a>
 
-**Hello-world-react-rails** is an app where I connected a rails db for backend with react components to show the frontend.
+**Hello-Rails-Back-End** is an app where I created a simple API to show in a React component (Front-End-Repository)[https://github.com/taldr27/Hello-React-Front-End].
 
 
 ## 🛠 Built With <a name="built-with"></a>
